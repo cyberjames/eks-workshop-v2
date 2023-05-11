@@ -31,3 +31,4 @@ env
 *.zip
 
 cdk.out
+terraform/*.log
